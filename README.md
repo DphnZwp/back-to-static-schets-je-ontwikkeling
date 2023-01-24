@@ -3,6 +3,8 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Mijn ontwikkeling
+In de toekomst wil ik beter worden in Next, React en Sveltekit. Ik denk dat ik met een paar developers ga samenwerken in een klein bedrijf. 
+
 ![IMG-1900](https://user-images.githubusercontent.com/69635977/214035871-a04393ff-86bb-4576-82e8-346c12d6459c.JPG)
 
 ![IMG-1902](https://user-images.githubusercontent.com/69635977/214035949-d8b9ac72-26dc-4d99-bd29-9c8502029acf.jpg)
