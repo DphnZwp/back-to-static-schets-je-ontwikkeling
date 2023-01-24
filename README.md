@@ -6,7 +6,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 In de toekomst wil ik in een bedrijf werken dat meerdere websites maakt. Ik denk dat ik met een paar developers ga samenwerken in een klein bedrijf. 
 
 ### Vaardigheden ontwikkelen
-Ik wil beter worden in Next, React en Sveltekit.
+Ik wil beter worden in deze frameworks: Next, React en Sveltekit.
 
 ![IMG-1900](https://user-images.githubusercontent.com/69635977/214035871-a04393ff-86bb-4576-82e8-346c12d6459c.JPG)
 
