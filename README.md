@@ -10,7 +10,7 @@ Ik wil beter worden in deze frameworks: Next, React en Sveltekit.
 
 ![IMG-1900](https://user-images.githubusercontent.com/69635977/214035871-a04393ff-86bb-4576-82e8-346c12d6459c.JPG)
 
-![IMG-1902](https://user-images.githubusercontent.com/69635977/214035949-d8b9ac72-26dc-4d99-bd29-9c8502029acf.jpg)
+![IMG-1913](https://user-images.githubusercontent.com/69635977/214850485-f45c9735-ea4a-4abd-a9f7-bcdd8cc740b0.jpg)
 
 ## Licentie
 
